@@ -1,2 +1,2 @@
-FROM nginx:alpine
+FORM nginx:alpine
 COPY index.html /usr/share/nginx/html/index.html
