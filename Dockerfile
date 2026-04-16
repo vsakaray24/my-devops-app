@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY ERROR_TEST.html /usr/share/nginx/html/index.html
+COPY index.html /usr/share/nginx/html/index.html
